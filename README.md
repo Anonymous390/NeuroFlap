@@ -1,7 +1,7 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Anonymous390/NNFS-MNIST-with-Convolution)
+![License](https://img.shields.io/badge/License-GPLv3-blue.svg)  
 # 🧠 NeuroFlap  
 An AI-powered Flappy Bird built **from scratch** in Python with Pygame and a custom neural network, trained using an evolutionary algorithm.  
-
-![License](https://img.shields.io/badge/License-GPLv3-blue.svg)  
 
 ---
 
