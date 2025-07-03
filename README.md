@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 ![NumPy](https://img.shields.io/badge/numpy-%E2%9C%94-lightgrey)
 ![License](https://img.shields.io/badge/License-GPLv3-blue.svg) 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Anonymous390/NeuroFlap) 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Anonymous390/NeuroFlap)](https://github.com/Anonymous390/NeuroFlap/releases/latest)
 # 🧠 NeuroFlap  
 An AI-powered Flappy Bird built **from scratch** in Python with Pygame and a custom neural network, trained using an evolutionary algorithm.  
 
