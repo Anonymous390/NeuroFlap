@@ -73,7 +73,7 @@ def main():
     # Save best agent
     best_idx = np.argmax(fitnesses)
     best_agent = population[best_idx]
-    # np.savez("Saved/best_flappy_weights.npz", **best_agent.get_weights())
+    np.savez("Saved/best_flappy_weights.npz", **best_agent.get_weights())
 
     print("\nTraining finished! Best agent saved to best_flappy_weights.npz")
 
